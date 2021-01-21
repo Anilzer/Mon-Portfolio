@@ -1,0 +1,16 @@
+nav {
+    height: 100px;
+    display: flex;
+}
+
+nav #internal-links ul li {
+list-style: none;
+}
+
+nav #internal-links ul li {
+    text-decoration: none;
+}
+
+nav #internal-links ul {
+    display: flex;
+}
